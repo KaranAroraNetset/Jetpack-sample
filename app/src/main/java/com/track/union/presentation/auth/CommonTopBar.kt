@@ -33,7 +33,7 @@ fun CommonTopBar(
     ) {
         Image(
             painter = painterResource(R.drawable.back_arrow_icon),
-            contentDescription = "Back",
+            contentDescription = "Baccck",
             modifier = Modifier
                 .size(20.dp)
                 .clickable { onBackClick() }
