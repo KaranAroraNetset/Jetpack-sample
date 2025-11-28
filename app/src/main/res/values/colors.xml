@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    bg_color-->
+    <color name="def_bg_color">@color/white</color>
+    <color name="def_otp_bg_color">#6B6B6B</color>
+    <color name="def_payment_bg_color">#D9D9D947</color>
+    <color name="def_pick_notes_bg_color">#EAEAEA</color>
+    <color name="def_dotted_bg_color">#B8B8B8</color>
+    <color name="def_location_bg_color">#FAFAFA</color>
+    <color name="def_wallet_bg_color">#D2F3FF</color>
+    <color name="def_radio_unselect_bg_color">#CACACA</color>
+
+<!--    Def-Text-Colors-->
+    <color name="text_color">#414141</color>
+    <color name="sub_text_color">#A0A0A0</color>
+    <color name="proceeding_color">#5F5F5F</color>
+    <color name="heading_color">#000000</color>
+    <color name="card_text_color">#5A5A5A</color>
+    <color name="fair_price_text_color">#585858</color>
+    <color name="coupon_text_color">#0DAE0D</color>
+    <color name="coupon_code_text_color">#606060</color>
+    <color name="rating_text_color">#C8C7CC</color>
+    <color name="rider_id_text_color">#999999</color>
+    <color name="alert_color">#FF0000</color>
+    <color name="payment_subtext_color">#656565</color>
+    <color name="rateTrip_text_color">#080A24</color>
+    <color name="notification_text_color">#0355A6</color>
+    <color name="transaction_sub_text_color">#B8B8B8</color>
+
+<!--    hint-text-color-->
+    <color name="hint_color">#D0D0D0</color>
+
+    <color name="powered_color">#67698E</color>
+
+<!--    def_button_color-->
+    <color name="button_bg_color">#A9BF04</color>
+
+    <color name="primary_color">#A9BF04</color>
+    <color name="light_primary_color">#D3E563</color>
+    <color name="terms_color">#F0F2E39E</color>
+    <color name="secondary_color">#F5F5F5</color>
+
+
+
+
+</resources>
